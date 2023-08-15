@@ -149,7 +149,7 @@ Prerequisites list of things you need to use the software and how to install the
 
 - [x] Create the connexion to the API
 - [x] Create private functions for human understanding
-- [x] Create main funtions : login, getProfile, getAgenda, getAgendaForTheNextMonth, getGrades, getAbsences, getProjects, getTeachers
+- [x] Create main functions : login, getProfile, getAgenda, getAgendaForTheNextMonth, getGrades, getAbsences, getProjects, getTeachers
 - [ ] Create a special function to retrieve only your projects 
 
 See the [open issues](https://github.com/CurtainShow/API-MyGES/issues) for a full list of proposed features (and known issues).
